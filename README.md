@@ -6,11 +6,6 @@ Please DO NOT CLICK Anything Except "ClickMe.py", “README.docx”, and "Python
 Before clicking "ClickMe.py" you will have to install pip. 
 To do that copy the code below into Command Prompt.
 
-
-
-
-
-
 "ClickMe.py" will install the packages automatically and slowly, so be patient, and MAKE SURE TO READ THE DIRECTIONS CAREFULLY IN THE CODE. 
 DOUBLE CLICK on "ClickMe.py" and follow the directions.
 
