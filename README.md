@@ -58,10 +58,12 @@ DOUBLE CLICK on "ClickMe.py" and follow the directions.*
      
      -	To fix the issue you can close out of "ClickMe.py" and open a new instance or just click Enter.
 
+# End Credits
+
 **If an error occurs or the program stops working, it is most likely one of these errors.**
 
 ***To STOP "ClickMe.py" move your mouse to the TOP RIGHT CORNER OF YOUR LAPTOP WINDOW. Or just X out of “Click Me.py”***
 
-##### Thank You and Big Thanks to pyimagesearch.com for the help and explanation of the codes. 
+#### Thank You and Big Thanks to pyimagesearch.com for the help and explanation of the codes. 
 
 ### Please Email me at shahvraj26@gmail.com if any questions occur from the errors or program.
