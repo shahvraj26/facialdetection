@@ -1,9 +1,9 @@
-# ->Welcome to Facial<-
+# ->Welcome to Facial<- Please Read Everything
  
- 
-##### << Remember to Install Python Before you go ahead and do anything >>
 
-##### Python Installation Website: https://www.python.org/downloads/
+### << Remember to Install Python Before you go ahead and do anything >>
+
+### Python Installation Website: https://www.python.org/downloads/
 
 ***Please DO NOT CLICK Anything Except "ClickMe.py", “README.docx”, and "Python Code Running Module.docx"(if needed).***
 
