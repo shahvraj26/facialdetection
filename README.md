@@ -15,10 +15,10 @@ To do that copy the code below into Command Prompt.**
 >> python get-pip.py
 ```
 
-"ClickMe.py" will install the packages automatically and slowly, so be patient, and MAKE SURE TO READ THE DIRECTIONS CAREFULLY IN THE CODE. 
-DOUBLE CLICK on "ClickMe.py" and follow the directions.
+*"ClickMe.py" will install the packages automatically and slowly, so be patient, and MAKE SURE TO READ THE DIRECTIONS CAREFULLY IN THE CODE. 
+DOUBLE CLICK on "ClickMe.py" and follow the directions.*
 
-Below are most of the errors that could possibly happen when running the code:
+### Below are most of the errors that could possibly happen when running the code:
 
 - Error #1 is the folder "facial" is not on the Desktop:
       
@@ -58,10 +58,10 @@ Below are most of the errors that could possibly happen when running the code:
      
      -	To fix the issue you can close out of "ClickMe.py" and open a new instance or just click Enter.
 
-If an error occurs or the program stops working, it is most likely one of these errors.
+**If an error occurs or the program stops working, it is most likely one of these errors.**
 
-To STOP "ClickMe.py" move your mouse to the TOP RIGHT CORNER OF YOUR LAPTOP WINDOW. Or just X out of “Click Me.py”
+***To STOP "ClickMe.py" move your mouse to the TOP RIGHT CORNER OF YOUR LAPTOP WINDOW. Or just X out of “Click Me.py”***
 
 ##### Thank You and Big Thanks to pyimagesearch.com for the help and explanation of the codes. 
 
-Please Email me at shahvraj26@gmail.com if any questions occur from the errors or program.
+### Please Email me at shahvraj26@gmail.com if any questions occur from the errors or program.
