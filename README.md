@@ -17,9 +17,9 @@ Below are most of the errors that could possibly happen when running the code:
 
 - Error #1 is the folder "facial" is not on the Desktop:
       
-      -	Close "ClickMe.py" and open it again.
+     -	Close "ClickMe.py" and open it again.
 
-      -	Move "facial" to the Desktop immediately.
+     -	Move "facial" to the Desktop immediately.
 
 - Error #2 is "Command Prompt not found":
      
