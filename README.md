@@ -18,7 +18,7 @@ To do that copy the code below into Command Prompt.**
 *"ClickMe.py" will install the packages automatically and slowly, so be patient, and MAKE SURE TO READ THE DIRECTIONS CAREFULLY IN THE CODE. 
 DOUBLE CLICK on "ClickMe.py" and follow the directions.*
 
-### Below are most of the errors that could possibly happen when running the code:
+# Errors that could occur
 
 - Error #1 is the folder "facial" is not on the Desktop:
       
