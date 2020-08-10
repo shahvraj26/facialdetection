@@ -10,10 +10,10 @@
 **Before clicking "ClickMe.py" you will have to install pip.
 To do that copy the code below into Command Prompt.**
 
-'''
-curl https://bootstrap.pypa.io/get-pip.py -o get-pip.py
-python get-pip.py
-'''
+```
+>> curl https://bootstrap.pypa.io/get-pip.py -o get-pip.py
+>> python get-pip.py
+```
 
 "ClickMe.py" will install the packages automatically and slowly, so be patient, and MAKE SURE TO READ THE DIRECTIONS CAREFULLY IN THE CODE. 
 DOUBLE CLICK on "ClickMe.py" and follow the directions.
